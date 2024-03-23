@@ -1,0 +1,114 @@
+.left-section {
+  background-color: black;
+  height: 1164px;
+  flex: 1.2;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: rgb(47, 51, 54);
+}
+
+.icons-button {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  background-color: black;
+  border: none;
+  border-radius: 60px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-left: 10px; 
+  margin-bottom: 2px;
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+
+.button-text {
+  margin-left: 15px;
+  font-size: 18px;
+  color:white; 
+  display: inline-block;
+  vertical-align: top;
+  vertical-align: middle;
+}
+
+.icons-button:hover {
+  background-color: rgb(27, 27, 27);
+}
+
+.icons {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  padding-left: 5px;
+}
+
+
+
+.post-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 50px;
+  border: none;
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+
+.post-button:hover {
+  background-color: rgb(21, 113, 175);
+}
+
+.pfp-div {
+  display: inline-block;
+  
+}
+
+.pfp-button {
+  margin-top: 90px;
+  margin-right: 20px;
+  background-color: black;
+  border: none;
+  border-radius: 35px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  width: 300px;
+  color: white;
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+
+.pfp-button:hover {
+  background-color: rgb(27, 27, 27);
+}
+
+.pfp {
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.name,
+.nickname {
+  margin: 0;
+}
+
+.nickname {
+  color: grey;
+}
+
+.more-pfp {
+  margin-left: auto;
+  width: 20px;
+  height: 20px;
+}

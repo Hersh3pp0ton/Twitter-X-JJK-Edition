@@ -1,0 +1,213 @@
+.middle-section {
+  background-color: rgb(0, 0, 0);
+  flex: 1;
+}
+
+.bars {
+  height: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+}
+
+.for-you {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(47, 51, 54);
+  flex: 1;
+  text-align: center;
+}
+
+.following {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(47, 51, 54);
+  flex: 1;
+  text-align: center;
+}
+
+.settings {
+  width: 25px;
+  margin-top: 12px;
+  margin-right: 10px;
+}
+
+.settings-div {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(47, 51, 54);
+  height: 50px;
+  margin-top: 0px;
+}
+
+.wis {
+  margin-top: 20px;
+  height: 100px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(47, 51, 54);
+}
+
+.pfp-div-wis {
+  margin-left: 10px;
+  width: 45px;
+  height: 45px;
+  display: inline-block;
+  vertical-align: middle;
+} 
+
+.wis-input-div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.wis-input {
+  border: none;
+  width: 500px;
+  height: 40px;
+  font-size: 20px;
+  background-color: black;
+  color: grey;
+}
+
+.wis-icons {
+  margin-left: 40px;
+  width: 300px;
+}
+
+.wis-icon-div {
+  margin-right: 0px;
+  margin-top: 5px;
+  margin-left: 20px;
+  display: inline-block;
+}
+
+.wis-icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.wis-post-button-div {
+  display: inline-block;
+  margin-left: 620px;
+  margin-right: 10px;
+}
+
+.wis-post-button {
+  background-color: #1D9BF0;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 50px;
+  border: none;
+  transition: background-color 0.2s;
+  cursor: pointer;
+  vertical-align: middle;
+  margin-top: -47px;
+}
+
+.show-more-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(47, 51, 54);
+}
+
+.show-more {
+  color: #1D9BF0;
+}
+
+.post-div {
+  padding-left: 15px;
+  padding-top: 12px;
+  padding-right: 15px;
+  cursor: pointer;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(47, 51, 54);
+}
+
+.post-pfp {
+  width: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.post-pfp-div {
+  width: 50px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.post-profile-info {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+  width: 500px;
+}
+
+.post-profile-name {
+  margin: 0px;
+  padding: 0px;
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.post-profile-nickname {
+  color: grey;
+  margin-right: 10px;
+}
+
+.post-more {
+  width: 30px;
+  height: 30px;
+}
+
+.post-profile-more {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 100px;
+}
+
+.post-description {
+  margin-top: 8px;
+  width: 575px;
+  line-height: 20px;
+}
+
+.post-img {
+  width: 575px;
+  margin-left: 58px;
+  border-radius: 15px;
+}
+
+.post-icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  vertical-align: middle;
+  margin-right: 3px;
+}
+
+.post-icon-div {
+  margin-right: 0px;
+  margin-top: -3px;
+  margin-left: 60px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.post-community-info {
+  display: inline-block;
+}

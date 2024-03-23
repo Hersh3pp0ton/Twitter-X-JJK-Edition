@@ -1,0 +1,193 @@
+.right-section {
+  background-color: rgb(0, 0, 0);
+  flex: 1;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: rgb(47, 51, 54);
+}
+
+.search {
+  margin-left: 15px;
+  margin-top: 5px;
+  width: 297px;
+  border: none;
+  background-color: rgb(62, 65, 68);
+  height: 30px;
+  border-radius: 20px;
+  padding-left: 20px;
+  color: white;
+}
+
+.subscribe-to-premium-div {
+  margin-left: 15px;
+  background-color: rgb(22, 24, 28);
+  border-radius: 10px;
+  width: 320px;
+}
+
+.subscribe-header {
+  margin-left: 10px;
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 0px;
+}
+
+.subscribe-paragraph {
+  margin-left: 10px;
+  margin-top: 10px;
+  line-height: 20px;
+}
+
+.subscribe-button {
+  background-color: #1D9BF0;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 50px;
+  border: none;
+  transition: background-color 0.2s;
+  cursor: pointer;
+  vertical-align: middle;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.live-on-x {
+  margin-left: 15px;
+  background-color: rgb(22, 24, 28);
+  border-radius: 10px;
+  width: 320px;
+}
+
+.live-header {
+  margin-left: 10px;
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 0px;
+}
+
+.user-in-live-div {
+  margin-left: 10px;
+  margin-top: 15px;
+  width: 180px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.live-user-pfp {
+  width: 30px;
+  display: inline-block;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.live-user {
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+.is-hosting {
+  color: grey;
+  font-size: 12px;
+  margin-left: 2px;
+  font-weight: 400;
+}
+
+.live-description {
+  margin-top: 3px;
+  line-height: 20px;
+}
+
+.live-button-div {
+  display: inline-block;
+  margin-left: 15px;
+  vertical-align: 30px;
+}
+
+.live-button {
+  background-color: black;
+  border-style: solid;
+  border-radius: 25px;
+  border-color: rgb(249, 24, 128);
+}
+
+.spectators {
+  display: inline-block;
+}
+
+.who-to-follow-div {
+  margin-left: 15px;
+  background-color: rgb(22, 24, 28);
+  border-radius: 10px;
+  width: 320px;
+  cursor: pointer;
+  padding-bottom: 10px;
+}
+
+.who-to-follow-header {
+  margin-left: 10px;
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 0px;
+}
+
+.who-to-follow-pfp-div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.who-to-follow-pfp {
+  width: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.name-and-nickname-div {
+  display: inline-block;
+  vertical-align: middle;
+  width: 100px;
+}
+
+.who-to-follow-name {
+  margin: 0px;
+}
+
+.who-to-follow-nickname {
+  margin: 0px;
+  color: grey;
+}
+
+.follow-button {
+  background-color: #1D9BF0;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.follow-button-div {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 50px;
+}
+
+.profile-to-follow {
+  margin-left: 10px;
+  margin-top: 10px;
+}

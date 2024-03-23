@@ -1,0 +1,13 @@
+span, p {
+    font-family: Helvetica;
+    color: white;
+    padding: 0px;
+}
+
+.home {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-left: 270px;
+    margin-right: 270px;
+}
